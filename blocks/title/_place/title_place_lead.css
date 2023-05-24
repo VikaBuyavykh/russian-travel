@@ -1,0 +1,26 @@
+.title_place_lead {
+    margin: 0 104px;
+    font-size: 96px;
+    line-height: 1.04;
+    text-align: center;
+}
+
+@media screen and (min-width: 1100px) {
+    .title_place_lead {
+        margin: 0 132px;
+    } 
+}
+
+@media screen and (max-width: 900px) {
+    .title_place_lead {
+        margin: 0 24px;
+    }   
+}
+
+@media screen and (max-width: 650px) {
+    .title_place_lead {
+        margin: 0 16px;
+        font-size: 40px;
+        line-height: 1.1;
+    }
+} 

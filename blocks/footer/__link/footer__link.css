@@ -1,6 +1,6 @@
 .footer__link {
     margin: 0;
-    font-family: 'Inter';
+    font-family: 'Inter Regular', 'Arial', 'Helvetica', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -10,13 +10,13 @@
     transition: opacity .3s ease .05s;
 }
 
+.footer__link:hover {
+    opacity: 0.5;
+}
+
 @media screen and (max-width: 650px) {
     .footer__link {
         font-size: 24px;
         line-height: 1;
     }
-}
-
-.footer__link:hover {
-    opacity: 0.5;
 }

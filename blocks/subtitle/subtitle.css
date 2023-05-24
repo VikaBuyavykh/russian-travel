@@ -1,10 +1,7 @@
-.intro__text {
-    margin: 40px 0 33px;
+.subtitle {
     font-family: 'Inter Regular', 'Arial', 'Helvetica', sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 1.63;
-    text-align: left;
+    text-align: center;
     color: #FFFFFF;
 }

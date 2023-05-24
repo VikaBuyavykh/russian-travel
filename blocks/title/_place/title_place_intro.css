@@ -1,0 +1,12 @@
+.title_place_intro {
+    font-size: 54px;
+    line-height: 1.07;
+    text-align: left;
+}
+
+@media screen and (max-width: 650px) {
+    .title_place_intro {
+        font-size: 32px;
+        line-height: 1.09;
+    }   
+} 

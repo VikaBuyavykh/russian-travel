@@ -1,0 +1,14 @@
+.subtitle_place_cover {
+    margin: 0;
+    max-width: 360px;
+    font-size: 18px;
+    line-height: 1.22;
+}
+
+@media screen and (max-width: 650px) {
+    .subtitle_place_cover {
+        max-width: 288px;
+        font-size: 14px;
+        line-height: 1.14;
+    }
+}

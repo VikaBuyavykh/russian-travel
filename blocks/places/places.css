@@ -1,7 +1,7 @@
 .places {
     margin: 0px 48px;
     display: grid;
-    grid-template: repeat(5, 5fr) / 1fr;
+    grid-template: repeat(5, min-content) / 1fr;
     row-gap: 80px;
     justify-content: stretch;
     align-items: stretch;

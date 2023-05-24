@@ -1,8 +1,7 @@
 .header__lang-link {
     margin: 0;
     margin-left: 18px;
-    padding-bottom: 0px;
-    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+    font-family: 'Inter Regular', 'Arial', 'Helvetica', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -17,9 +16,4 @@
         font-size: 18px;
         line-height: 1.11;
     }
-}
-  
-.header__lang-link:hover {
-    text-decoration: underline #FFFFFF solid 1.5px;
-    text-underline-offset: 5px;
 }

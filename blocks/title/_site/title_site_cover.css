@@ -1,4 +1,4 @@
-.title_place_cover {
+.title_site_cover {
     margin-bottom: 32px;
     max-width: 560px;
     font-size: 72px;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 650px) {
-    .title_place_cover {
+    .title_site_cover {
         margin-bottom: 16px;
         max-width: 288px;
         font-size: 32px;

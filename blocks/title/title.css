@@ -1,7 +1,9 @@
 .title {
-    font-family: 'Inter Black', 'Arial', 'Helvetica', sans-serif;
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
     font-style: normal;
-    font-weight: 900;
+    font-weight: bold;
     color: #FFFFFF;
     margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }

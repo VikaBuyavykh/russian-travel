@@ -1,15 +1,17 @@
 .place__link {
     margin: 0;
     margin-top: 12px;
-    font-family: 'Inter Regular', 'Arial', 'Helvetica', sans-serif;
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
     font-style: normal;
-    font-weight: 400;
+    font-weight: normal;
     font-size: 18px;
     line-height: 1.22;
     text-decoration: underline #FFFFFF solid 2px;
     text-underline-offset: 3px;
     color: #FFFFFF;
     transition: opacity .5s ease .05s;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .place__link:hover {

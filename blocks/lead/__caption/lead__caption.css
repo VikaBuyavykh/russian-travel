@@ -2,14 +2,16 @@
     margin: 0;
     margin-top: 8px;
     align-self: flex-start;
-    font-family: 'Inter Regular', 'Arial', 'Helvetica', sans-serif;
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
     font-style: normal;
-    font-weight: 400;
+    font-weight: normal;
     font-size: 10px;
     line-height: 1.4;
     letter-spacing: 1.5px;
     text-transform: uppercase;
     color: #FFFFFF;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 @media screen and (max-width: 900px) {

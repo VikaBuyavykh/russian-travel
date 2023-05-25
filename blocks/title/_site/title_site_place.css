@@ -1,21 +1,21 @@
-.title_place_place {
+.title_site_place {
     font-size: 72px;
     line-height: 1.05;
     text-align: left;
 }
 
 @media screen and (max-width: 900px) {
-    .title_place_place {
+    .title_site_place {
         font-size: 42px;
         line-height: 1.09;
     }
-    .title_place_place:first-of-type {
+    .title_site_place:first-of-type {
         margin-right: 10px;
     }
 }
 
 @media screen and (max-width: 650px) {
-    .title_place_place {
+    .title_site_place {
         margin: 0 16px;
         font-size: 32px;
     }
